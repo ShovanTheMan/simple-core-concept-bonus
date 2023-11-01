@@ -12,7 +12,7 @@ function compare(a, b) {
    
    }
    
-   const result = compare(15, 25);
+   const result = compare(15, "15");
    
    console.log(result);
 
